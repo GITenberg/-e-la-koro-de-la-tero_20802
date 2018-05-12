@@ -1,0 +1,37 @@
+_repo: -e-la-koro-de-la-tero_20802
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mickle, Gary
+    gutenberg_agent_id: '9529'
+    url: http://www.gutenberg.org/2009/agents/9529
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_bookshelf:
+- Esperanto
+- Science Fiction
+gutenberg_issued: '2007-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20802'
+language: eo
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Earth (Planet) -- Core -- Fiction'
+title: Ĉe la koro de la tero
+url: http://www.gutenberg.org/ebooks/20802
